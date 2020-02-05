@@ -1,7 +1,7 @@
 package com.company;
 
 class MyClass {
-    static void myStaticMethod() {
+    void myinstMethod() {
         System.out.println("Hello");
     }
 }
